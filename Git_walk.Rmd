@@ -2,7 +2,8 @@
 title: "Git_walk"
 author: "Neil Watson"
 date: "02/03/2021"
-output: html_document
+output: github_document
+  
 ---
 
 ```{r setup, include=FALSE}
